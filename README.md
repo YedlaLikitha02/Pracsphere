@@ -4,7 +4,7 @@
 
 ## 📄 Description
 
-This project is a **Task Manager Dashboard** built for the PracSphere internship assessment. It allows users to **sign up, log in, and manage their personal tasks** securely. Each user can add, edit, delete, and filter their own tasks. The project follows a clean monorepo setup using **TurboRepo** and **pnpm** for workspace management. It includes authentication using **NextAuth.js** with **MongoDB**, styled using **Tailwind CSS**, and supports responsive design.
+This project is a **Task Manager Dashboard** built for the PracSphere internship assessment. It allows users to **sign up, log in, and manage their personal tasks** securely. Each user can add, edit, delete, and filter their own tasks. The project follows a clean monorepo setup using **TurboRepo** and **pnpm** for workspace management. It includes authentication using **NextAuth.js** with **MongoDB** and supports responsive design.
 
 ---
 
@@ -51,5 +51,22 @@ Go to **[http://localhost:3000](http://localhost:3000)** to view the app.
 * MongoDB for data storage
 * CRUD operations for tasks
 * Each user can manage only their own tasks
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+
+![Home Page Screenshot](screenshot1.png)
+
+### 🔐 Login Page
+
+![Login Page Screenshot](screenshot2.png)
+
+### 🗾 Task Dashboard
+
+![Task Dashboard Screenshot](screenshot3.png)
+
 
 
