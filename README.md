@@ -50,7 +50,6 @@ Go to **[http://localhost:3000](http://localhost:3000)** to view the app.
 * User Signup & Login with NextAuth.js
 * MongoDB for data storage
 * CRUD operations for tasks
-* Responsive UI built with Tailwind CSS
 * Each user can manage only their own tasks
 
 
