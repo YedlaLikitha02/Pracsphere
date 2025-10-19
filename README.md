@@ -58,15 +58,18 @@ Go to **[http://localhost:3000](http://localhost:3000)** to view the app.
 
 ### 🏠 Signup Page
 
-![Home Page Screenshot](images/screenshot1.png)
+![Home Page Screenshot]<img width="1310" height="621" alt="Screenshot1" src="https://github.com/user-attachments/assets/ea3605f0-3ade-4530-af7c-3cb460a1b89d" />
+
 
 ### 🔐 Login Page
 
-![Login Page Screenshot](images/screenshot2.png)
+![Login Page Screenshot]
+<img width="1282" height="599" alt="Screenshot2" src="https://github.com/user-attachments/assets/bbdcedd4-72a9-4b1d-b3dc-7efe4fd7e1b1" />
 
 ### 🗾 Task Dashboard
 
-![Task Dashboard Screenshot](images/screenshot3.png)
+![Task Dashboard Screenshot]
+<img width="1345" height="645" alt="Screenshot3" src="https://github.com/user-attachments/assets/4207dd83-b184-477b-82e4-119826d0bed6" />
 
 
 
