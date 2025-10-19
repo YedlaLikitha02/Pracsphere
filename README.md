@@ -58,15 +58,15 @@ Go to **[http://localhost:3000](http://localhost:3000)** to view the app.
 
 ### 🏠 Signup Page
 
-![Home Page Screenshot](screenshot1.png)
+![Home Page Screenshot](images/screenshot1.png)
 
 ### 🔐 Login Page
 
-![Login Page Screenshot](screenshot2.png)
+![Login Page Screenshot](images/screenshot2.png)
 
 ### 🗾 Task Dashboard
 
-![Task Dashboard Screenshot](screenshot3.png)
+![Task Dashboard Screenshot](images/screenshot3.png)
 
 
 
