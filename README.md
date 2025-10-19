@@ -56,7 +56,7 @@ Go to **[http://localhost:3000](http://localhost:3000)** to view the app.
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page
+### 🏠 Signup Page
 
 ![Home Page Screenshot](screenshot1.png)
 
